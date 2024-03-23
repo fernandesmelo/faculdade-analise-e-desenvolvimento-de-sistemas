@@ -43,7 +43,7 @@ Próximos passos...
 
 ## 👨🏽‍💻 Versão das Tecnologias
 
-* Python - Compatível com Python 2.x e Python 3.x.
+* Python 3.12.2
 
 ## ✒️ Autor
 
