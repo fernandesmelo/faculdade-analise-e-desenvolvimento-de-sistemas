@@ -1,6 +1,6 @@
 # Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas 
 
-Aqui guardo todos os exercícios que fiz em diversas tecnologias ao decorrer do curso.
+Aqui guardo todos os exercícios e mini projetos que fiz em diversas tecnologias ao decorrer do curso.
 
 O curso permite o conhecimento das diversas tecnologias da informação, dando subsídios para reconhecer, definir e aplicar a melhor solução para o desenvolvimento de sistemas que atendam aos problemas da sociedade e das organizações, além de me tornar apto a incorporar as novas tecnologias, de acordo com a dinâmica profissional e empresarial (com foco nas empresas do comércio de bens, serviços e turismo).
 
@@ -35,15 +35,18 @@ Agora você tem os arquivos instalado e rodando localmente. Bom desenvolvimento!
 
 Próximos passos...
 
-## 🛠️ Exercícios com
+## 🛠️ Tecnologias Usadas
 
 <div style="display: inline-block"><br/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img align="center" alt="html5" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img align="center" alt="html5" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div><br/>
 
 ## 👨🏽‍💻 Versão das Tecnologias
 
 * Python 3.12.2
+* JavaScript 20.11.1
 
 ## ✒️ Autor
 
