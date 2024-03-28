@@ -47,6 +47,7 @@ Próximos passos...
 
 * Python 3.12.2
 * JavaScript 20.11.1
+* Node.js 20.11.1
 
 ## ✒️ Autor
 
