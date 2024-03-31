@@ -46,7 +46,7 @@ Próximos passos...
 ## 👨🏽‍💻 Versão das Tecnologias
 
 * Python 3.12.2
-* JavaScript 20.11.1
+* JavaScript ECMAScript 6 (ES6)
 * Node.js 20.11.1
 
 ## ✒️ Autor
