@@ -1,0 +1,29 @@
+@import url(../styles/header.css);
+@import url(../styles/banner.css);
+@import url(../styles/about.css);
+@import url(../styles/skills.css);
+@import url(../styles/hobbies-degree.css);
+@import url(../styles/projects.css);
+@import url(../styles/contact.css);
+@import url(../styles/footer.css);
+
+:root {
+    --cor-de-fundo: #F5F5F5;
+    --white: #FFFFFF;
+    --black: #000000;
+    --dark-blue: #162950;
+
+    --montserrat: "Montserrat";
+    --poppins: "Poppins";
+}
+
+body {
+    background-color: var(--white);
+    background: var(--cor-de-fundo);
+    background-position:right bottom, left top;
+    background-repeat: no-repeat;
+    color: var(--dark-blue);
+    font-family: var(--poppins);
+    font-size: 1em;
+    font-weight: 400;
+}

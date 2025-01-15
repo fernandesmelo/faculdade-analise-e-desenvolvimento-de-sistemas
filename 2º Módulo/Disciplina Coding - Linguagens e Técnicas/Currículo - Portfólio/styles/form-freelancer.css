@@ -1,0 +1,45 @@
+body {
+    background-color: #f7f7f7;
+}
+.container {
+    max-width: 800px;
+    margin: 50px auto;
+    padding: 30px;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+fieldset {
+    margin-top: 20px;
+}
+legend {
+    font-weight: 600;
+    padding-bottom: 1.5rem;
+    text-transform: uppercase;
+    text-align: center;
+    color: #162950;
+}
+label {
+    margin-top: 10px;
+}
+
+.form-check-label {
+    margin: 0;
+}
+
+button {
+    font-size: 0.75em;
+    text-align: center;
+    text-decoration: none;
+    border: none;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    width: 6rem;
+    padding: 0.75rem;
+    background: #162950;
+    border-radius: 3rem;
+}
+
+.button-limpar {
+    background: #000000;
+}
