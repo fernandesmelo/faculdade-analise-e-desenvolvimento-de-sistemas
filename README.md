@@ -31,10 +31,6 @@ Antes de começar, certifique-se de ter instalado em seu sistema operacional:
 ### 🎉 Parabéns!
 Agora você tem os arquivos instalado e rodando localmente. Bom desenvolvimento!
 
-## ⚙️ Executando os Testes
-
-Próximos passos...
-
 ## 🛠️ Tecnologias Usadas
 
 <div style="display: inline-block"><br/>
@@ -52,3 +48,6 @@ Próximos passos...
 ## ✒️ Autor
 
 * **Laércio Fernandes** - [LinkedIn](https://www.linkedin.com/in/laercio-fernandes/)
+
+## ⚙️ Executando os Testes
+Próximos passos...
