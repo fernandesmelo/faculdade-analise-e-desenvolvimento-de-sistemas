@@ -1,7 +1,7 @@
 # Faculdade Senac Pernambuco - Análise e Desenvolvimento de Sistemas 
 Aqui guardo todos os exercícios e trabalhos que fiz em diversas tecnologias ao decorrer do curso de Análise e Desenvolvimento de Sistemas  na [Faculdade Senac Pernambuco](https://www.devmedia.com.br/).
 
-![download](https://github.com/user-attachments/assets/f638183e-83bb-4c3b-b4e0-989bc0a51625)
+![vestibular-faculdade-senac-2021-2-1536x830](https://github.com/user-attachments/assets/5641935c-4da5-49a4-b83a-45fddf2f6466)
 
 ## 🛠️ Construído com
 
